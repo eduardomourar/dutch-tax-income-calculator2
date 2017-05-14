@@ -1,0 +1,15 @@
+{
+  "allowance_label": "Adicional de férias incluso",
+  "age_label": "Eu tenho mais de 65 anos",
+  "LABEL_LANGUAGE": "Língua",
+  "socialSecurity_label": "Previdência Social",
+  "ruling_label": "Eu tenho a regra de 30%",
+  "tab_gross_year": "Anual Bruto",
+  "tab_net_month": "Mensal Líquido",
+  "OUTPUT_TAXABLE_INCOME": "Salário Base",
+  "OUTPUT_INCOME_TAX": "Imposto de Renda",
+  "OUTPUT_GENERAL_TAX_CREDIT": "Desconto Geral",
+  "OUTPUT_LABOUR_TAX_CREDIT": "Desconto para Trabalhador",
+  "OUTPUT_YEAR_NET_INCOME": "Salário Anual Líquido",
+  "OUTPUT_MONTHLY_NET_INCOME": "Salário Mensal Líquido"
+}
