@@ -7,7 +7,7 @@
   "GROSS_HOUR": "Hora Bruto",
   "NET_MONTH": "Mês Líquido",
   "OUTPUT": {
-    "GROSS_ALLOWANCE": "Adicional de Férias Anual Bruto",
+    "GROSS_ALLOWANCE": "Adicional de Férias Ano Bruto",
     "GROSS_YEAR": "Salário Ano Bruto",
     "GROSS_MONTH": "Salário Mês Bruto",
     "GROSS_WEEK": "Salário Semana Bruto",
@@ -21,7 +21,7 @@
     "GENERAL_CREDIT": "Desconto Comum",
     "LABOUR_CREDIT": "Desconto Trabalhador",
     "INCOME_TAX": "Total Imposto",
-    "NET_ALLOWANCE": "Adicional de Férias Anual Líquido",
+    "NET_ALLOWANCE": "Adicional de Férias Ano Líquido",
     "NET_YEAR": "Salário Ano Líquido",
     "NET_MONTH": "Salário Mês Líquido",
     "NET_WEEK": "Salário Semana Líquido",
